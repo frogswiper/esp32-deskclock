@@ -1,5 +1,4 @@
 # PlatformIO
 firmware/.pio/
 
-# Generated merged binary (regenerated on each build+flash)
-web-installer/firmware-merged.bin
+# firmware-merged.bin is tracked — update it after each release build
