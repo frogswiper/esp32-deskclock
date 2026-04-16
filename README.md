@@ -2,6 +2,8 @@
 
 A clean, touch-enabled desk clock for the **JC4827W543** development board (ESP32-S3, 4.3″ display). Shows the time, current weather, and a 7-day forecast. No cloud account or API key required.
 
+![screenshot](screenshot.png)
+
 ---
 
 ## Features
