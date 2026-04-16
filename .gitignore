@@ -1,0 +1,5 @@
+# PlatformIO
+firmware/.pio/
+
+# Generated merged binary (regenerated on each build+flash)
+web-installer/firmware-merged.bin
