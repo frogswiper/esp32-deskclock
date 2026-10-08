@@ -1,0 +1,4 @@
+# PlatformIO
+firmware/.pio/
+
+# firmware-merged.bin is tracked — update it after each release build
